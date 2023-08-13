@@ -1,4 +1,4 @@
-baseURL = "https://avinashdharan.github.io/quartz/"
+baseURL = "https://notes.avinashdharan.com"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
