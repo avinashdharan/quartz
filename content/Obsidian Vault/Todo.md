@@ -8,6 +8,9 @@
 ||c6:34:be:7f:3d:0a||10.0.10.22|knode2|
 
 
+DNS setting backup
+adf
+
 
 local-data: "docserver.box A 10.0.10.10"
 local-data: "netserver.box A 10.0.10.11"
