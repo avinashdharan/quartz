@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b927e1e6fdffc160",
+        "id": "43e0c34acc01c425",
         "type": "tabs",
         "children": [
           {
-            "id": "b5e14573a05b1359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb641a46b94d559d",
+            "id": "73e7dd0d2691135a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "166eafb8f7849233",
@@ -158,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f76d2d073b30047",
+  "active": "73e7dd0d2691135a",
   "lastOpenFiles": [
-    "Todo.md",
+    "Pasted image 20230820132643.png",
+    "Untitled.canvas",
     "Kubernetes.md",
-    "Untitled.canvas"
+    "Todo.md"
   ]
 }
